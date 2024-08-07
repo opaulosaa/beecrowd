@@ -1,2 +1,2 @@
 # beecrowd
-Lista de exercícios de POO no beecrowd
+Lista de exercicios de POO no beecrowd
